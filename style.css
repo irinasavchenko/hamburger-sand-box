@@ -1,0 +1,16 @@
+﻿ul.navbar-nav {
+    background-color: #333333;
+    float: right;
+}
+
+#bs-example-navbar-collapse-1 ul.navbar-nav li a {
+    color: white;
+}
+
+#bs-example-navbar-collapse-1 ul.navbar-nav li.active a, li:hover {
+    background-color: #000000;
+}
+
+nav .container-fluid .navbar-collapse {
+    padding-right: 0;
+}
